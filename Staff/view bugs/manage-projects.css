@@ -1,0 +1,196 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 545px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 3.75rem;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-table-1 {
+  width: 1142px;
+  margin: 96px auto 0 -16px;
+}
+
+.u-block-c7db-49 {
+  background-image: none;
+}
+
+.u-section-1 .u-table-entity-1 {
+  min-height: 100px;
+}
+
+.u-section-1 .u-table-header-1 {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 400;
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-table-cell-1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.u-section-1 .u-table-cell-2 {
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  font-weight: 400;
+}
+
+.u-section-1 .u-table-cell-3 {
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-4 {
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-5 {
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-6 {
+  background-image: none;
+}
+
+.u-section-1 .u-table-body-1 {
+  line-height: 1.6;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 1.125em;
+}
+
+.u-section-1 .u-table-cell-9 {
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.u-section-1 .u-table-cell-10 {
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.u-section-1 .u-table-cell-11 {
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.u-section-1 .u-table-cell-12 {
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.u-section-1 .u-icon-2 {
+  margin-right: 0;
+}
+
+.u-section-1 .u-table-cell-13 {
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.u-section-1 .u-table-cell-14 {
+  background-image: none;
+}
+
+.u-section-1 .u-icon-3 {
+  font-size: 1.125em;
+}
+
+.u-section-1 .u-table-cell-15 {
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.u-section-1 .u-table-cell-16 {
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.u-section-1 .u-table-cell-17 {
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.u-section-1 .u-table-cell-18 {
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.u-section-1 .u-icon-4 {
+  vertical-align: 0px;
+  margin-left: 0;
+}
+
+.u-block-c7db-35 {
+  background-image: none;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: none;
+  font-weight: 700;
+  margin: 159px 621px 0 369px;
+  padding: 6px 30px 6px 29px;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  border-style: none;
+  font-weight: 700;
+  margin: -38px 360px 6px auto;
+  padding: 6px 30px 6px 29px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-table-1 {
+    margin-top: 46px;
+    width: 940px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 259px;
+    margin-bottom: 11px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-table-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 39px;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 60px;
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-table-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-table-1 {
+    width: 340px;
+  }
+}
